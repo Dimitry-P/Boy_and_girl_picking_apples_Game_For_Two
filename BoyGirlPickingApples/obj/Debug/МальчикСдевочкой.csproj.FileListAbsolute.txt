@@ -1,0 +1,14 @@
+D:\Visual Studio\МальчикСдевочкой\МальчикСдевочкой\bin\Debug\МальчикСдевочкой.exe.config
+D:\Visual Studio\МальчикСдевочкой\МальчикСдевочкой\bin\Debug\МальчикСдевочкой.exe
+D:\Visual Studio\МальчикСдевочкой\МальчикСдевочкой\bin\Debug\МальчикСдевочкой.pdb
+D:\Visual Studio\МальчикСдевочкой\МальчикСдевочкой\bin\Debug\sfml-audio.dll
+D:\Visual Studio\МальчикСдевочкой\МальчикСдевочкой\bin\Debug\sfml-graphics.dll
+D:\Visual Studio\МальчикСдевочкой\МальчикСдевочкой\bin\Debug\sfml-learning.dll
+D:\Visual Studio\МальчикСдевочкой\МальчикСдевочкой\bin\Debug\sfml-system.dll
+D:\Visual Studio\МальчикСдевочкой\МальчикСдевочкой\bin\Debug\sfml-window.dll
+D:\Visual Studio\МальчикСдевочкой\МальчикСдевочкой\obj\Debug\МальчикСдевочкой.csproj.AssemblyReference.cache
+D:\Visual Studio\МальчикСдевочкой\МальчикСдевочкой\obj\Debug\МальчикСдевочкой.csproj.CoreCompileInputs.cache
+D:\Visual Studio\МальчикСдевочкой\МальчикСдевочкой\obj\Debug\________.026AF627.Up2Date
+D:\Visual Studio\МальчикСдевочкой\МальчикСдевочкой\obj\Debug\МальчикСдевочкой.exe
+D:\Visual Studio\МальчикСдевочкой\МальчикСдевочкой\obj\Debug\МальчикСдевочкой.pdb
+D:\Visual Studio\МальчикСдевочкой\МальчикСдевочкой\obj\Debug\МальчикСдевочкой.exe.config
